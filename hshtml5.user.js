@@ -2,7 +2,7 @@
 // @name        HabraStorage HTML5 uploader
 // @namespace   habraStorage
 // @version     0.01
-// @description Этот скрипт позволяет загружать картинки на HabraStorage без необходимости загружать и устанавливать Adobe FlashFlayer!
+// @description Этот скрипт позволяет загружать картинки на HabraStorage без необходимости загружать и устанавливать Adobe FlashPlayer!
 // @include     http://habrastorage.org/*
 // @include     http://www.habrastorage.org/*
 // ==/UserScript==
